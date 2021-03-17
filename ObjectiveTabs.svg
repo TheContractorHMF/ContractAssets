@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
+   width="300mm"
    height="297mm"
-   viewBox="0 0 210 297"
+   viewBox="0 0 300 297"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -19,33 +19,33 @@
      id="defs2">
     <rect
        x="163.56895"
-       y="47.039437"
-       width="363.48656"
-       height="48.108515"
+       y="47.039436"
+       width="363.48657"
+       height="48.108517"
        id="rect3714" />
     <rect
-       x="72.162772"
-       y="4.8108515"
+       x="72.162773"
+       y="4.8108516"
        width="238.93896"
-       height="53.453905"
+       height="53.453903"
        id="rect2374" />
     <rect
-       x="-8.5526249"
+       x="-8.5526247"
        y="-116.52951"
-       width="343.70861"
-       height="55.592062"
+       width="343.70862"
+       height="55.592064"
        id="rect2368" />
     <rect
        x="-15.768902"
-       y="-17.907058"
-       width="186.28686"
-       height="41.961316"
+       y="-17.907059"
+       width="186.28687"
+       height="41.961315"
        id="rect2230" />
     <rect
        x="-127.56696"
        y="55.751488"
-       width="98.545787"
-       height="18.14008"
+       width="98.545784"
+       height="18.140079"
        id="rect2200" />
     <linearGradient
        inkscape:collect="always"
@@ -173,25 +173,25 @@
        id="rect3704" />
     <rect
        x="163.56895"
-       y="47.039437"
-       width="363.48656"
-       height="48.108515"
+       y="47.039436"
+       width="363.48657"
+       height="48.108517"
        id="rect3722" />
     <rect
        x="163.56895"
-       y="47.039437"
-       width="363.48656"
-       height="48.108515"
+       y="47.039436"
+       width="363.48657"
+       height="48.108517"
        id="rect3728" />
     <rect
        x="163.56895"
-       y="47.039437"
+       y="47.039436"
        width="169.89859"
        height="108.07149"
        id="rect3738" />
     <rect
        x="163.56895"
-       y="47.039437"
+       y="47.039436"
        width="195.49295"
        height="110.32982"
        id="rect3812" />
@@ -265,21 +265,21 @@
        id="rect1216" />
     <rect
        x="-15.768902"
-       y="-17.907058"
-       width="186.28686"
-       height="41.961316"
+       y="-17.907059"
+       width="186.28687"
+       height="41.961315"
        id="rect1116" />
     <rect
-       x="72.162772"
-       y="4.8108515"
+       x="72.162773"
+       y="4.8108516"
        width="238.93896"
-       height="53.453905"
+       height="53.453903"
        id="rect1118" />
     <rect
        x="-15.768902"
-       y="-17.907058"
-       width="186.28686"
-       height="41.961316"
+       y="-17.907059"
+       width="186.28687"
+       height="41.961315"
        id="rect1167" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
@@ -331,7 +331,7 @@
     <text
        xml:space="preserve"
        id="text2366"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect2368);" />
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2368);fill:#000000;fill-opacity:1;stroke:none;" />
     <rect
        style="opacity:0.5;fill:#00ff00;stroke:none;stroke-width:6.14389;stroke-linecap:round;stroke-linejoin:round"
        id="rect1920"
